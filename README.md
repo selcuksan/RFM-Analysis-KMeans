@@ -14,9 +14,12 @@
   → Kararlı hale gelinene kadar 2. ve 3. aşamanın tekrarlanması
   
     
-    * K-Meansdaki ‘K’ parametresi verinin kaç tane kümeye ayrılacağını belirtir. Uygun K sayısını seçmek için çeşitli metotlar bulunmaktadır.
+    * K-Meansdaki ‘K’ parametresi verinin kaç tane kümeye ayrılacağını belirtir. 
+        Uygun K sayısını seçmek için çeşitli metotlar bulunmaktadır.
 
-       -> Elbow metodu (Dirsek Yöntemi); noktaların her K değerine göre küme merkezine uzaklıklarının karesi toplamı hesaplanmaktadır. Bu değerlere göre her K değeri için grafik çizilmektedir. Grafik üzerinde toplamlar arasındaki farkın azalmaya başladığı dirsek noktası en uygun K değeri olarak belirlenmektedir.
+       -> Elbow metodu (Dirsek Yöntemi); noktaların her K değerine göre küme merkezine uzaklıklarının karesi toplamı hesaplanmaktadır. 
+           Bu değerlere göre her K değeri için grafik çizilmektedir. 
+           Grafik üzerinde toplamlar arasındaki farkın azalmaya başladığı dirsek noktası en uygun K değeri olarak belirlenmektedir.
      
      
 # Gereksinimler
