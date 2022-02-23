@@ -28,7 +28,7 @@
 
 # Kurulum & Çalıştırma
 
-- <pre class="terminal"><code class="terminal-line" prefix="$">git clone https://github.com/selcuksan/RFM-Analizi-KMeans.git</code></pre>
-- <pre class="terminal"><code class="terminal-line" prefix="$">cd RFM-Analizi-KMeans</code></pre>
+- <pre class="terminal"><code class="terminal-line" prefix="$">git clone https://github.com/selcuksan/RFM-Analysis-KMeans.git</code></pre>
+- <pre class="terminal"><code class="terminal-line" prefix="$">cd RFM-Analysis-KMeans</code></pre>
 - <pre class="terminal"><code class="terminal-line" prefix="$">pip install -r requirements.txt</code></pre>
 - <pre class="terminal"><code class="terminal-line" prefix="$">py rfm-analysis-Kmeans.py</code></pre>
